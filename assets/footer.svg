@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Always learning. Always building.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05030f"/><stop offset="1" stop-color="#140a2b"/></linearGradient>
+<linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F5FF"/><stop offset="1" stop-color="#8A2BE2"/></linearGradient>
+<linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF2BD6"/><stop offset="1" stop-color="#00F5FF"/></linearGradient>
+<linearGradient id="w3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8A2BE2"/><stop offset="1" stop-color="#FF2BD6"/></linearGradient>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00F5FF" stop-opacity="0.6"/><stop offset="0.5" stop-color="#8A2BE2" stop-opacity="0.25"/><stop offset="1" stop-color="#FF2BD6" stop-opacity="0.6"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="170" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="170" fill="url(#bg)"/>
+<text x="603" y="62" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="18" font-weight="700" letter-spacing="6" fill="#00F5FF">ALWAYS LEARNING. ALWAYS BUILDING.<animate attributeName="opacity" values="0.65;1;0.65" dur="3.5s" repeatCount="indefinite"/></text>
+<text x="600" y="88" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#8087b5">© 2026 ARJUN T V</text>
+<path d="M0 112 C 75 96, 225 128, 300 112 S 525 128, 600 112 S 825 128, 900 112 S 1125 128, 1200 112 S 1425 128, 1500 112 S 1725 128, 1800 112 S 2025 128, 2100 112 L 2100 170 L 0 170 Z" fill="url(#w1)" fill-opacity="0.3"><animateTransform attributeName="transform" type="translate" values="0 0;-300 0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M0 124 C 75 110, 225 138, 300 124 S 525 138, 600 124 S 825 138, 900 124 S 1125 138, 1200 124 S 1425 138, 1500 124 S 1725 138, 1800 124 S 2025 138, 2100 124 L 2100 170 L 0 170 Z" fill="url(#w2)" fill-opacity="0.28"><animateTransform attributeName="transform" type="translate" values="-450 0;-150 0" dur="13s" repeatCount="indefinite"/></path>
+<path d="M0 136 C 75 124, 225 148, 300 136 S 525 148, 600 136 S 825 148, 900 136 S 1125 148, 1200 136 S 1425 148, 1500 136 S 1725 148, 1800 136 S 2025 148, 2100 136 L 2100 170 L 0 170 Z" fill="url(#w3)" fill-opacity="0.45"><animateTransform attributeName="transform" type="translate" values="-75 0;-375 0" dur="7s" repeatCount="indefinite"/></path>
+</g>
+<rect x="0.75" y="0.75" width="1198.5" height="168.5" rx="16" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+</svg>
